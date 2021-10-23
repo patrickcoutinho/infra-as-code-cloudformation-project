@@ -7,7 +7,7 @@
 ## Initial steps:
 
 - To get started set the `EnvironmentName` in the `json` files.
-- Setup `BucketName` in `s3.json`
+- Setup `BucketName` in `s3.json` and `servers.json`.
 
 ## Stack creation:
 
