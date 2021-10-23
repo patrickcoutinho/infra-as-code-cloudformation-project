@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "IaCPatrickUdacityProject"
+  },
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "iacpatrickudacityproject-umteste2"
+  }
+]

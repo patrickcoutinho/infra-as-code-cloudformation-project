@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "IaCPatrickUdacityProject"
+  },
+  {
+    "ParameterKey": "ServerImageId",
+    "ParameterValue": "ami-0205c39bd60924d48"
+  },
+  {
+    "ParameterKey": "AutoScalingMinSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "AutoScalingMaxSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "iacpatrickudacityproject-umteste2"
+  },
+  {
+    "ParameterKey": "BucketObjectKey",
+    "ParameterValue": "index.html"
+  }
+]
